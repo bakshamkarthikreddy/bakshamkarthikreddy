@@ -2,100 +2,93 @@
 <h1 align="center">Karthik Reddy Baksham</h1>
 
 <p align="center">
-  <b>AI / ML Engineer • Python Developer • Problem Solver</b>
+  <b>Artificial Intelligence • Machine Learning • Software Engineering</b>
 </p>
 
-<!-- SUBTLE ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4B5563&center=true&vCenter=true&width=520&lines=Building+Intelligent+Systems;Focused+on+AI+%26+Machine+Learning;Clean+Code+%7C+Real+World+Projects;Always+Learning+%26+Improving" />
-</p>
-
-<!-- MINIMAL SOCIALS -->
-<p align="center">
-  <a href="https://github.com/bakshamkarthikreddy">GitHub</a> •
   <a href="https://www.linkedin.com/in/karthik-reddy-baksham">LinkedIn</a> •
   <a href="mailto:bakshamkarthikreddy@gmail.com">Email</a>
 </p>
 
+<!-- SUBTLE TAGLINE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=374151&center=true&vCenter=true&width=500&lines=Building+scalable+and+intelligent+systems;Focused+on+AI+and+real-world+applications;Consistency+over+intensity" />
+</p>
+
 ---
 
-<!-- ================= ABOUT ================= -->
 ## About
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a strong foundation in problem-solving and software development.
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a strong interest in building scalable systems and solving complex problems.
 
-I focus on building practical, real-world applications while continuously improving my understanding of core computer science concepts and modern technologies.
+My work focuses on writing clean, efficient code and developing applications that translate theory into real-world impact.
 
 ---
 
-<!-- ================= SKILLS ================= -->
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="42"/>
-  <img src="https://skillicons.dev/icons?i=html" height="42"/>
-  <img src="https://skillicons.dev/icons?i=css" height="42"/>
-  <img src="https://skillicons.dev/icons?i=js" height="42"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-1F2937?style=flat-square&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-1F2937?style=flat-square"/>
 </p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-## Selected Projects
+## Projects
 
 ### E-Commerce Web Application
-A full-stack application designed to simulate a real-world online shopping experience.
+Designed and developed a full-stack e-commerce platform simulating real-world online shopping systems.
 
-- Secure authentication and session management  
-- Dynamic product catalog and cart system  
-- Admin dashboard for inventory and order tracking  
-- Clean and responsive UI  
+- Implemented secure authentication and session management  
+- Built dynamic product catalog and cart functionality  
+- Developed admin dashboard for inventory and order tracking  
+- Focused on performance and user experience  
 
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL, Node.js  
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, Node.js  
 
 ---
 
 ### Breakout Game
-A browser-based arcade game focused on smooth interaction and gameplay logic.
+Engineered a browser-based interactive game with smooth performance and responsive controls.
 
-- Real-time controls and collision detection  
-- Score tracking and progressive difficulty  
-- Lightweight and responsive design  
+- Real-time collision detection and animation handling  
+- Score tracking with continuous gameplay loop  
+- Optimized for responsiveness and simplicity  
 
-**Tech:** HTML, CSS, JavaScript  
+**Tech Stack:** HTML, CSS, JavaScript  
 
 ---
 
 ### Frontend Web Project
-A responsive web interface project emphasizing clean design and usability.
+Developed responsive and accessible web interfaces with emphasis on usability and clean design.
 
-- Semantic and accessible structure  
-- Cross-device responsiveness  
-- Optimized performance  
+- Semantic structure and cross-device compatibility  
+- Performance-focused frontend architecture  
+- Reusable UI components  
 
-**Tech:** HTML, CSS, JavaScript, Next.js  
-
----
-
-<!-- ================= EXPERIENCE STYLE ================= -->
-## Strengths
-
-- Strong foundation in Data Structures & Algorithms  
-- Ability to quickly learn and adapt to new technologies  
-- Focus on writing clean, maintainable code  
-- Problem-solving mindset with attention to detail  
+**Tech Stack:** HTML, CSS, JavaScript, Next.js  
 
 ---
 
-<!-- ================= CERTIFICATIONS ================= -->
+## Core Strengths
+
+- Strong foundation in Data Structures and Algorithms  
+- Ability to design and implement scalable solutions  
+- Clean coding practices and structured problem-solving  
+- Fast learner with consistent execution  
+
+---
+
 ## Certifications
 
 - ChatGPT-4 Prompt Engineering – Infosys  
@@ -105,16 +98,14 @@ A responsive web interface project emphasizing clean design and usability.
 
 ---
 
-<!-- ================= CURRENT ================= -->
-## Currently
+## Current Focus
 
-- Advancing in Machine Learning  
-- Exploring Backend Development  
-- Learning System Design fundamentals  
+- Advanced Machine Learning  
+- Backend Engineering  
+- System Design fundamentals  
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <i>Building with consistency. Growing with curiosity.</i>
+  <i>Focused on long-term growth and meaningful engineering.</i>
 </p>
