@@ -1,10 +1,16 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 <h1 align="center">Karthik Reddy Baksham</h1>
 
 <p align="center">
-  Aspiring AI / ML Engineer • Python Developer • Problem Solver
+  <b>AI / ML Engineer • Python Developer • Problem Solver</b>
 </p>
 
+<!-- SUBTLE ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B5563&center=true&vCenter=true&width=520&lines=Building+Intelligent+Systems;Focused+on+AI+%26+Machine+Learning;Clean+Code+%7C+Real+World+Projects;Always+Learning+%26+Improving" />
+</p>
+
+<!-- MINIMAL SOCIALS -->
 <p align="center">
   <a href="https://github.com/bakshamkarthikreddy">GitHub</a> •
   <a href="https://www.linkedin.com/in/karthik-reddy-baksham">LinkedIn</a> •
@@ -13,91 +19,102 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ================= ABOUT ================= -->
+## About
 
-- Computer Science student specializing in AI & Machine Learning  
-- Strong foundation in Data Structures & Algorithms  
-- Interested in building scalable and real-world applications  
-- Consistent learner with a focus on problem-solving  
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a strong foundation in problem-solving and software development.
 
----
-
-## 🛠️ Technical Skills
-
-**Languages**  
-Python  
-
-**Web Technologies**  
-HTML, CSS, JavaScript  
-
-**Libraries & Tools**  
-Scikit-Learn, Pandas, NumPy, Matplotlib  
-
-**Database**  
-MySQL  
-
-**Core Concepts**  
-Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks  
+I focus on building practical, real-world applications while continuously improving my understanding of core computer science concepts and modern technologies.
 
 ---
 
-## 💼 Projects
+<!-- ================= SKILLS ================= -->
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="42"/>
+  <img src="https://skillicons.dev/icons?i=html" height="42"/>
+  <img src="https://skillicons.dev/icons?i=css" height="42"/>
+  <img src="https://skillicons.dev/icons?i=js" height="42"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=flat-square"/>
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+## Selected Projects
 
 ### E-Commerce Web Application
-- Developed a full-stack application with authentication and session management  
-- Implemented product catalog, cart system, and secure checkout  
-- Built an admin dashboard for inventory and order tracking  
-- **Tech:** HTML, CSS, JavaScript, PHP, MySQL, Node.js  
+A full-stack application designed to simulate a real-world online shopping experience.
+
+- Secure authentication and session management  
+- Dynamic product catalog and cart system  
+- Admin dashboard for inventory and order tracking  
+- Clean and responsive UI  
+
+**Tech:** HTML, CSS, JavaScript, PHP, MySQL, Node.js  
 
 ---
 
-### Breakout Game (Web-Based)
-- Designed an interactive browser-based arcade game  
-- Implemented collision detection and smooth animations  
-- Added scoring system and continuous gameplay  
-- **Tech:** HTML, CSS, JavaScript  
+### Breakout Game
+A browser-based arcade game focused on smooth interaction and gameplay logic.
+
+- Real-time controls and collision detection  
+- Score tracking and progressive difficulty  
+- Lightweight and responsive design  
+
+**Tech:** HTML, CSS, JavaScript  
 
 ---
 
 ### Frontend Web Project
-- Built responsive and user-friendly web interfaces  
-- Ensured cross-browser compatibility and performance optimization  
-- **Tech:** HTML, CSS, JavaScript, Next.js  
+A responsive web interface project emphasizing clean design and usability.
+
+- Semantic and accessible structure  
+- Cross-device responsiveness  
+- Optimized performance  
+
+**Tech:** HTML, CSS, JavaScript, Next.js  
 
 ---
 
-## 📜 Certifications
+<!-- ================= EXPERIENCE STYLE ================= -->
+## Strengths
+
+- Strong foundation in Data Structures & Algorithms  
+- Ability to quickly learn and adapt to new technologies  
+- Focus on writing clean, maintainable code  
+- Problem-solving mindset with attention to detail  
+
+---
+
+<!-- ================= CERTIFICATIONS ================= -->
+## Certifications
 
 - ChatGPT-4 Prompt Engineering – Infosys  
 - Master Generative AI  
-- Build AI Applications using No-Code Tools  
+- Build AI Applications (No-Code Tools)  
 - Web Development Fundamentals  
 
 ---
 
-## 🏆 Achievements
+<!-- ================= CURRENT ================= -->
+## Currently
 
-- Maintained a 30+ day LeetCode streak  
-- Regularly solving DSA problems to improve analytical skills  
-
----
-
-## 📈 Currently Learning
-
-- Machine Learning (Advanced Concepts)  
-- Backend Development  
-- System Design  
+- Advancing in Machine Learning  
+- Exploring Backend Development  
+- Learning System Design fundamentals  
 
 ---
 
-## ⚡ Additional Information
-
-- Strong communication and problem-solving skills  
-- Quick learner with a positive attitude  
-- Interested in AI-driven real-world solutions  
-
----
-
+<!-- ================= FOOTER ================= -->
 <p align="center">
-  Thank you for visiting my profile.
+  <i>Building with consistency. Growing with curiosity.</i>
 </p>
