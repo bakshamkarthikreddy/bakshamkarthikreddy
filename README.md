@@ -1,141 +1,103 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Karthik Reddy Baksham</h1>
+<h1 align="center">Karthik Reddy Baksham</h1>
 
-<h3 align="center">
-🚀 Aspiring AI / ML Engineer | Python Developer | DSA Enthusiast
-</h3>
-
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
+  Aspiring AI / ML Engineer • Python Developer • Problem Solver
+</p>
+
+<p align="center">
+  <a href="https://github.com/bakshamkarthikreddy">GitHub</a> •
+  <a href="https://www.linkedin.com/in/karthik-reddy-baksham">LinkedIn</a> •
+  <a href="mailto:bakshamkarthikreddy@gmail.com">Email</a>
 </p>
 
 ---
 
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://github.com/bakshamkarthikreddy">
-    <img src="https://img.shields.io/badge/GitHub-bakshamkarthik-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/karthik-reddy-baksham">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:bakshamkarthikreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+## 👨‍💻 About Me
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bakshamkarthikreddy&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+- Computer Science student specializing in AI & Machine Learning  
+- Strong foundation in Data Structures & Algorithms  
+- Interested in building scalable and real-world applications  
+- Consistent learner with a focus on problem-solving  
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Technical Skills
 
-- 🎓 Computer Science Student (AI & ML)  
-- 🤖 Passionate about Artificial Intelligence & Machine Learning  
-- 🧠 Strong in Data Structures & Algorithms  
-- 🚀 Building real-world projects  
-- 📚 Always learning and improving  
+**Languages**  
+Python  
 
----
+**Web Technologies**  
+HTML, CSS, JavaScript  
 
-## 🛠️ Tech Stack
+**Libraries & Tools**  
+Scikit-Learn, Pandas, NumPy, Matplotlib  
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+**Database**  
+MySQL  
 
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙️ Libraries & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+**Core Concepts**  
+Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks  
 
 ---
 
-## 💡 Projects
+## 💼 Projects
 
-### 🛒 E-Commerce Web Application
-- 🔐 Secure authentication & session management  
-- 🛍️ Cart system with smooth checkout  
-- 📊 Admin dashboard for inventory & orders  
-- ⚡ Real-time product updates  
-- **Tech:** HTML, CSS, JS, PHP, MySQL, Node.js  
+### E-Commerce Web Application
+- Developed a full-stack application with authentication and session management  
+- Implemented product catalog, cart system, and secure checkout  
+- Built an admin dashboard for inventory and order tracking  
+- **Tech:** HTML, CSS, JavaScript, PHP, MySQL, Node.js  
 
 ---
 
-### 🎮 Breakout Game
-- 🎯 Interactive browser-based arcade game  
-- ⚡ Smooth animations & controls  
-- 🧱 Collision detection & scoring system  
+### Breakout Game (Web-Based)
+- Designed an interactive browser-based arcade game  
+- Implemented collision detection and smooth animations  
+- Added scoring system and continuous gameplay  
 - **Tech:** HTML, CSS, JavaScript  
 
 ---
 
-### 🌐 Frontend Project
-- 📱 Fully responsive UI  
-- 🎨 Clean design with semantic HTML  
-- ⚡ Fast and optimized performance  
+### Frontend Web Project
+- Built responsive and user-friendly web interfaces  
+- Ensured cross-browser compatibility and performance optimization  
 - **Tech:** HTML, CSS, JavaScript, Next.js  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakshamkarthikreddy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakshamkarthikreddy&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakshamkarthikreddy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-- 🔥 30+ Days LeetCode Streak  
-- 💡 Strong problem-solving mindset  
-
----
-
 ## 📜 Certifications
+
 - ChatGPT-4 Prompt Engineering – Infosys  
 - Master Generative AI  
-- Build AI Apps (No-Code Tools)  
+- Build AI Applications using No-Code Tools  
 - Web Development Fundamentals  
 
 ---
 
+## 🏆 Achievements
+
+- Maintained a 30+ day LeetCode streak  
+- Regularly solving DSA problems to improve analytical skills  
+
+---
+
 ## 📈 Currently Learning
-- Advanced Machine Learning  
+
+- Machine Learning (Advanced Concepts)  
 - Backend Development  
 - System Design  
 
 ---
 
-## ⚡ Fun Fact
-💡 I love turning ideas into real-world projects using code 🚀  
+## ⚡ Additional Information
+
+- Strong communication and problem-solving skills  
+- Quick learner with a positive attitude  
+- Interested in AI-driven real-world solutions  
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
-  ⭐ Don't forget to star repositories you like!
+  Thank you for visiting my profile.
 </p>
