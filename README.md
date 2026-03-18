@@ -1,111 +1,119 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Karthik Reddy Baksham</h1>
+<h1 align="center">Hi 👋, I'm Karthik Reddy</h1>
 
-<p align="center">
-  <b>Artificial Intelligence • Machine Learning • Software Engineering</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/karthik-reddy-baksham">LinkedIn</a> •
-  <a href="mailto:bakshamkarthikreddy@gmail.com">Email</a>
-</p>
-
-<!-- SUBTLE TAGLINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=374151&center=true&vCenter=true&width=500&lines=Building+scalable+and+intelligent+systems;Focused+on+AI+and+real-world+applications;Consistency+over+intensity" />
-</p>
-
----
-
-## About
-
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, with a strong interest in building scalable systems and solving complex problems.
-
-My work focuses on writing clean, efficient code and developing applications that translate theory into real-world impact.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-1F2937?style=flat-square&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-1F2937?style=flat-square"/>
-</p>
-
----
-
-## Projects
-
-### E-Commerce Web Application
-Designed and developed a full-stack e-commerce platform simulating real-world online shopping systems.
-
-- Implemented secure authentication and session management  
-- Built dynamic product catalog and cart functionality  
-- Developed admin dashboard for inventory and order tracking  
-- Focused on performance and user experience  
-
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, Node.js  
-
----
-
-### Breakout Game
-Engineered a browser-based interactive game with smooth performance and responsive controls.
-
-- Real-time collision detection and animation handling  
-- Score tracking with continuous gameplay loop  
-- Optimized for responsiveness and simplicity  
-
-**Tech Stack:** HTML, CSS, JavaScript  
-
----
-
-### Frontend Web Project
-Developed responsive and accessible web interfaces with emphasis on usability and clean design.
-
-- Semantic structure and cross-device compatibility  
-- Performance-focused frontend architecture  
-- Reusable UI components  
-
-**Tech Stack:** HTML, CSS, JavaScript, Next.js  
-
----
-
-## Core Strengths
-
-- Strong foundation in Data Structures and Algorithms  
-- Ability to design and implement scalable solutions  
-- Clean coding practices and structured problem-solving  
-- Fast learner with consistent execution  
-
----
-
-## Certifications
-
-- ChatGPT-4 Prompt Engineering – Infosys  
-- Master Generative AI  
-- Build AI Applications (No-Code Tools)  
-- Web Development Fundamentals  
-
----
-
-## Current Focus
-
-- Advanced Machine Learning  
-- Backend Engineering  
-- System Design fundamentals  
+<h3 align="center">Aspiring AI/ML Engineer | Python Developer | DSA Enthusiast</h3>
 
 ---
 
 <p align="center">
-  <i>Focused on long-term growth and meaningful engineering.</i>
+<a href="https://github.com/bakshamkarthikreddy">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/karthik-reddy-baksham">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:bakshamkarthikreddy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+✔ 🎓 Computer Science (AI/ML) Student  
+✔ 🤖 Learning Artificial Intelligence  
+✔ 🧠 Practicing Data Structures & Algorithms  
+✔ 🚀 Building ML & Web projects  
+✔ 📚 Learning something new everyday  
+
+---
+
+## ⚡ Tech Stack
+
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,js"/>
+</p>
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,nextjs"/>
+</p>
+
+### AI / Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce Web Application
+Full stack online shopping platform with authentication and admin dashboard.
+
+Tech Used:
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+---
+
+### 🎮 Breakout Game
+Classic JavaScript arcade game with collision physics and scoring system.
+
+Tech Used:
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🌐 Frontend Development Project
+Responsive website with optimized UI and reusable components.
+
+Tech Used:
+`HTML` `CSS` `JavaScript` `Next.js`
+
+---
+
+## 🏆 Achievements
+
+🏅 32+ Days LeetCode Streak  
+🧩 Strong DSA Practice  
+📈 Improving problem solving skills  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bakshamkarthikreddy&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakshamkarthikreddy&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bakshamkarthikreddy&theme=tokyo-night"/>
+
+---
+
+## 📫 Contact Me
+
+📧 bakshamkarthikreddy@gmail.com  
+📍 India  
+📱 +91-8919779241
+
+---
+
+⭐ From Karthik Reddy
